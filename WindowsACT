@@ -1,0 +1,16 @@
+slmgr.vbs /upk
+slmgr.vbs /cpky
+slmgr.vbs /ipk INSERTPRODUCTKEYHERE
+
+Windows 7 Pro - FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4
+Windows 8.1 Pro - GCRJD-8NW9H-F2CDX-CCM8D-9D6T9
+Win 10 - W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+Server 2008 Datacenter - 7M67G-PC374-GR742-YH8V4-TCBY3
+Server 2012 R2 Datacenter - W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9
+Server 2016 Datacenter - CB7KF-BWN84-R7R2Y-793K2-8XDDG
+Server 2019 Datacenter - WMDGN-G9PQG-XVVXX-R3X43-63DFG
+
+
+slmgr.vbs /skms 192.168.1.6:1688
+slmgr.vbs /ato
